@@ -1,3 +1,5 @@
+I used UserDefaults is used to record high score in the application.
+
 
 He is so fast! Don't wait and Catch The Gomez!
 
