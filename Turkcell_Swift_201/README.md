@@ -1,0 +1,3 @@
+In this application, cell design was made with .xib file. Paging with UITableView and filtering on the list with SearchBar.
+
+Uploading Ekran Kaydı 2022-03-23 23.57.36.mov…
